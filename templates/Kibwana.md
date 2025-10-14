@@ -4,7 +4,7 @@ Hello, I'm Kibwana Miruru!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-
+<img src = "https://ac-o.namu.la/20231125sac/95d27204e0893fe5636249dd3cca89a511520cba0e705cc764336c514172f1ba.webp?expires=1760480776&key=hsDbZENan_iyw3qckn2jIg&type=orig">
 <hr>
 
 <pre>
